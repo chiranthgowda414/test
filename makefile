@@ -6,5 +6,4 @@ big.o:big.c
 	gcc -c big.c
 fact.o:fact.c
 	gcc -c fact.c
-clean:
-	rm -rf *.o
+
